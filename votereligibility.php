@@ -1,7 +1,7 @@
 <?php
 $age= "18";
 $pvc = "yes";
-$ward = "010";
+$ward = "020";
 
 if ($age >"17" && $pvc=="yes" && $ward=="020"){
     echo  "voter eligible to vote";
