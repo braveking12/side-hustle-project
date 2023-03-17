@@ -12,5 +12,4 @@ if ($age >"17" && $pvc=="yes" && $ward=="020"){
 } elseif ($ward != "020"){
     echo "voter note eligible to vote, invalid ward code";
 }
-
 ?>
