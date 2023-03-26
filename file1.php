@@ -7,7 +7,6 @@ echo "hello guys i am learning php with sidehustle";
 $connect = mysqli_connect('localhost', 'root', '', 'test');
 
 
-
 if ($connect){
     echo "connected";
 } else {
